@@ -1,5 +1,5 @@
 # SSM
-SSP (Sistema de Sensores Modular) Abra o cógigo para uma melhor visualização.
+SSP (Sistema de Sensores Modular) Abra o código para uma melhor visualização.
   Consiste numa aplicação em arduino para programar e prototipar sensores que sejam usados em projetos com setpoint de maneira a ter de recompilar o código menos vezes para fazer ajustes no projeto.
 #Funcionamento#
 O sistema consiste em duas componentes principais, o núcleo e os módulos de sensores.
